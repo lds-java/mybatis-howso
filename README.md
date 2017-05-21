@@ -15,4 +15,4 @@ Essentials
 ----------
 
 * [See the docs](http://mybatis.github.io/mybatis-3)
-* [Download Latest](https://github.com/mybatis/mybatis-3/releases)
+* [Download Latest](https://github.com/mybatis/mybatis-3/releases) 
